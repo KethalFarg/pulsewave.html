@@ -1,0 +1,59 @@
+id,next,rule,section,index,total,seg,template
+Landing page,Slide_01_GenderSelect,,,,,,
+Slide_01_GenderSelect,Slide_02_JointSelect,,,,,,
+Slide_02_JointSelect,Slide_03_ZipCodeEntry,,history,2.0,6.0,0.0,
+Slide_03_ZipCodeEntry,Slide_04_FindingProviderPopup,,,,,,blank
+Slide_04_FindingProviderPopup,Slide_05_ProviderLoadingPopup,,,,,,blank
+Slide_05_ProviderLoadingPopup,Slide_06_Info_Over1Million,,,,,,blank
+Slide_06_Info_Over1Million,Slide_07_AgeRange_male,,,,,,blank
+Slide_07_AgeRange_male,Slide_07_AgeRange_female,,history,3.0,6.0,0.0,
+Slide_07_AgeRange_female,Slide_08_Info_EliteInstitutions,,history,3.0,6.0,0.0,
+Slide_08_Info_EliteInstitutions,Slide_09_DiagnosedJointCondition,,,,,,blank
+Slide_09_DiagnosedJointCondition,Slide_10_JointDiagnosisConditional_hip,,history,4.0,6.0,0.0,
+Slide_10_JointDiagnosisConditional_hip,Slide_10_JointDiagnosisConditional_knee,,history,5.0,6.0,0.0,
+Slide_10_JointDiagnosisConditional_knee,Slide_10_JointDiagnosisConditional_elbow,,history,5.0,6.0,0.0,
+Slide_10_JointDiagnosisConditional_elbow,Slide_10_JointDiagnosisConditional_shoulder,,history,5.0,6.0,0.0,
+Slide_10_JointDiagnosisConditional_shoulder,Slide_10_JointDiagnosisConditional_wrist,,history,5.0,6.0,0.0,
+Slide_10_JointDiagnosisConditional_wrist,Slide_11_PainDuration,,history,5.0,6.0,0.0,
+Slide_11_PainDuration,Slide_12_Info_PainDoesntGoAway,,history,6.0,6.0,0.0,
+Slide_12_Info_PainDoesntGoAway,Slide_13_PainLevelAverage,,,,,,blank
+Slide_13_PainLevelAverage,Slide_14_PainLevelWorst,,condition,1.0,4.0,1.0,
+Slide_14_PainLevelWorst,Slide_15_PainProgression,,condition,2.0,4.0,1.0,
+Slide_15_PainProgression,Slide_16_MovementAggravatorsConditional_knee,,condition,3.0,4.0,1.0,
+Slide_16_MovementAggravatorsConditional_knee,Slide_16_MovementAggravatorsConditional_hip,,condition,4.0,4.0,1.0,
+Slide_16_MovementAggravatorsConditional_hip,Slide_16_MovementAggravatorsConditional_elbow,,condition,4.0,4.0,1.0,
+Slide_16_MovementAggravatorsConditional_elbow,Slide_16_MovementAggravatorsConditional_shoulder,,condition,4.0,4.0,1.0,
+Slide_16_MovementAggravatorsConditional_shoulder,Slide_16_MovementAggravatorsConditional_wrist,,condition,4.0,4.0,1.0,
+Slide_16_MovementAggravatorsConditional_wrist,Slide_17_Info_JointSpecificStats _knee,,condition,4.0,4.0,1.0,
+Slide_17_Info_JointSpecificStats _knee,Slide_17_Info_JointSpecificStats _hip,,,,,,blank
+Slide_17_Info_JointSpecificStats _hip,Slide_17_Info_JointSpecificStats _shoulder,,,,,,blank
+Slide_17_Info_JointSpecificStats _shoulder,Slide_17_Info_JointSpecificStats _elbow,,,,,,blank
+Slide_17_Info_JointSpecificStats _elbow,Slide_17_Info_JointSpecificStats _wrist,,,,,,blank
+Slide_17_Info_JointSpecificStats _wrist,Slide_18_MoodImpact,,,,,,blank
+Slide_18_MoodImpact,Slide_19_SleepImpact,,healthImpact,1.0,7.0,2.0,
+Slide_19_SleepImpact,Slide_20_PastTreatments,,healthImpact,2.0,7.0,2.0,
+Slide_20_PastTreatments,Slide_21_Info_TreatmentFrustration,,healthImpact,3.0,7.0,2.0,
+Slide_21_Info_TreatmentFrustration,Slide_22_TreatmentEffectiveness,,,,,,blank
+Slide_22_TreatmentEffectiveness,Slide_23_Info_YouDeserveAnswers,,healthImpact,4.0,7.0,2.0,
+Slide_23_Info_YouDeserveAnswers,Slide_24_DoctorRecommendedSurgery,,,,,,blank
+Slide_24_DoctorRecommendedSurgery,Slide_25_CurrentMedication,,healthImpact,5.0,7.0,2.0,
+Slide_25_CurrentMedication,Slide_26_ActivityGoals,,healthImpact,6.0,7.0,2.0,
+Slide_26_ActivityGoals,Slide_27_Info_longterm,,healthImpact,7.0,7.0,2.0,
+Slide_27_Info_longterm,Slide_28_NonSurgicalPreference,,,,,,blank
+Slide_28_NonSurgicalPreference,Slide_29_Info_HowItWorks,,priorities,1.0,3.0,3.0,
+Slide_29_Info_HowItWorks,Slide_30_BiggestConcern,,,,,,blank
+Slide_30_BiggestConcern,Slide_31_Info_ObjectionHandling_cost,,priorities,2.0,3.0,3.0,
+Slide_31_Info_ObjectionHandling_cost,Slide_31_Info_ObjectionHandling_effectiveness,,,,,,blank
+Slide_31_Info_ObjectionHandling_effectiveness,Slide_31_Info_ObjectionHandling_time,,,,,,blank
+Slide_31_Info_ObjectionHandling_time,Slide_31_Info_ObjectionHandling_safety,,,,,,blank
+Slide_31_Info_ObjectionHandling_safety,Slide_32_TreatmentPriority,,,,,,blank
+Slide_32_TreatmentPriority,Slide_33_ContactForm,,priorities,3.0,3.0,3.0,
+Slide_33_ContactForm,Slide_34_Painprofile,,,,,,blank
+Slide_34_Painprofile,Slide_35_analyzingscreen,,,,,,blank
+Slide_35_analyzingscreen,Slide_36_treatmentquestion_commitment_popup,,,,,,blank
+Slide_36_treatmentquestion_commitment_popup,Slide_37_asktrialtreatment_popup,,,,,,blank
+Slide_37_asktrialtreatment_popup,Slide_38_conditional_trial_yes,,,,,,blank
+Slide_38_conditional_trial_yes,Slide_38b_conditional_Popup_no,,,,,,blank
+Slide_38b_conditional_Popup_no,Slide_39_FinalReport,,,,,,blank
+Slide_39_FinalReport,Slide_40_ProviderRouting,,,,,,blank
+Slide_40_ProviderRouting,,,,,,,blank

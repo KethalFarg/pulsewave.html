@@ -1,0 +1,375 @@
+{
+  "slides": [
+    {
+      "id": "Landing page",
+      "next": "Slide_01_GenderSelect"
+    },
+    {
+      "id": "Slide_01_GenderSelect",
+      "next": "Slide_02_JointSelect"
+    },
+    {
+      "id": "Slide_02_JointSelect",
+      "next": "Slide_03_ZipCodeEntry",
+      "section": "history",
+      "index": 2.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_03_ZipCodeEntry",
+      "next": "Slide_04_FindingProviderPopup",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_04_FindingProviderPopup",
+      "next": "Slide_05_ProviderLoadingPopup",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_05_ProviderLoadingPopup",
+      "next": "Slide_06_Info_Over1Million",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_06_Info_Over1Million",
+      "next": "Slide_07_AgeRange_male",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_07_AgeRange_male",
+      "next": "Slide_07_AgeRange_female",
+      "section": "history",
+      "index": 3.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_07_AgeRange_female",
+      "next": "Slide_08_Info_EliteInstitutions",
+      "section": "history",
+      "index": 3.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_08_Info_EliteInstitutions",
+      "next": "Slide_09_DiagnosedJointCondition",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_09_DiagnosedJointCondition",
+      "next": "Slide_10_JointDiagnosisConditional_hip",
+      "section": "history",
+      "index": 4.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_10_JointDiagnosisConditional_hip",
+      "next": "Slide_10_JointDiagnosisConditional_knee",
+      "section": "history",
+      "index": 5.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_10_JointDiagnosisConditional_knee",
+      "next": "Slide_10_JointDiagnosisConditional_elbow",
+      "section": "history",
+      "index": 5.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_10_JointDiagnosisConditional_elbow",
+      "next": "Slide_10_JointDiagnosisConditional_shoulder",
+      "section": "history",
+      "index": 5.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_10_JointDiagnosisConditional_shoulder",
+      "next": "Slide_10_JointDiagnosisConditional_wrist",
+      "section": "history",
+      "index": 5.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_10_JointDiagnosisConditional_wrist",
+      "next": "Slide_11_PainDuration",
+      "section": "history",
+      "index": 5.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_11_PainDuration",
+      "next": "Slide_12_Info_PainDoesntGoAway",
+      "section": "history",
+      "index": 6.0,
+      "total": 6.0,
+      "seg": 0.0
+    },
+    {
+      "id": "Slide_12_Info_PainDoesntGoAway",
+      "next": "Slide_13_PainLevelAverage",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_13_PainLevelAverage",
+      "next": "Slide_14_PainLevelWorst",
+      "section": "condition",
+      "index": 1.0,
+      "total": 4.0,
+      "seg": 1.0
+    },
+    {
+      "id": "Slide_14_PainLevelWorst",
+      "next": "Slide_15_PainProgression",
+      "section": "condition",
+      "index": 2.0,
+      "total": 4.0,
+      "seg": 1.0
+    },
+    {
+      "id": "Slide_15_PainProgression",
+      "next": "Slide_16_MovementAggravatorsConditional_knee",
+      "section": "condition",
+      "index": 3.0,
+      "total": 4.0,
+      "seg": 1.0
+    },
+    {
+      "id": "Slide_16_MovementAggravatorsConditional_knee",
+      "next": "Slide_16_MovementAggravatorsConditional_hip",
+      "section": "condition",
+      "index": 4.0,
+      "total": 4.0,
+      "seg": 1.0
+    },
+    {
+      "id": "Slide_16_MovementAggravatorsConditional_hip",
+      "next": "Slide_16_MovementAggravatorsConditional_elbow",
+      "section": "condition",
+      "index": 4.0,
+      "total": 4.0,
+      "seg": 1.0
+    },
+    {
+      "id": "Slide_16_MovementAggravatorsConditional_elbow",
+      "next": "Slide_16_MovementAggravatorsConditional_shoulder",
+      "section": "condition",
+      "index": 4.0,
+      "total": 4.0,
+      "seg": 1.0
+    },
+    {
+      "id": "Slide_16_MovementAggravatorsConditional_shoulder",
+      "next": "Slide_16_MovementAggravatorsConditional_wrist",
+      "section": "condition",
+      "index": 4.0,
+      "total": 4.0,
+      "seg": 1.0
+    },
+    {
+      "id": "Slide_16_MovementAggravatorsConditional_wrist",
+      "next": "Slide_17_Info_JointSpecificStats _knee",
+      "section": "condition",
+      "index": 4.0,
+      "total": 4.0,
+      "seg": 1.0
+    },
+    {
+      "id": "Slide_17_Info_JointSpecificStats _knee",
+      "next": "Slide_17_Info_JointSpecificStats _hip",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_17_Info_JointSpecificStats _hip",
+      "next": "Slide_17_Info_JointSpecificStats _shoulder",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_17_Info_JointSpecificStats _shoulder",
+      "next": "Slide_17_Info_JointSpecificStats _elbow",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_17_Info_JointSpecificStats _elbow",
+      "next": "Slide_17_Info_JointSpecificStats _wrist",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_17_Info_JointSpecificStats _wrist",
+      "next": "Slide_18_MoodImpact",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_18_MoodImpact",
+      "next": "Slide_19_SleepImpact",
+      "section": "healthImpact",
+      "index": 1.0,
+      "total": 7.0,
+      "seg": 2.0
+    },
+    {
+      "id": "Slide_19_SleepImpact",
+      "next": "Slide_20_PastTreatments",
+      "section": "healthImpact",
+      "index": 2.0,
+      "total": 7.0,
+      "seg": 2.0
+    },
+    {
+      "id": "Slide_20_PastTreatments",
+      "next": "Slide_21_Info_TreatmentFrustration",
+      "section": "healthImpact",
+      "index": 3.0,
+      "total": 7.0,
+      "seg": 2.0
+    },
+    {
+      "id": "Slide_21_Info_TreatmentFrustration",
+      "next": "Slide_22_TreatmentEffectiveness",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_22_TreatmentEffectiveness",
+      "next": "Slide_23_Info_YouDeserveAnswers",
+      "section": "healthImpact",
+      "index": 4.0,
+      "total": 7.0,
+      "seg": 2.0
+    },
+    {
+      "id": "Slide_23_Info_YouDeserveAnswers",
+      "next": "Slide_24_DoctorRecommendedSurgery",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_24_DoctorRecommendedSurgery",
+      "next": "Slide_25_CurrentMedication",
+      "section": "healthImpact",
+      "index": 5.0,
+      "total": 7.0,
+      "seg": 2.0
+    },
+    {
+      "id": "Slide_25_CurrentMedication",
+      "next": "Slide_26_ActivityGoals",
+      "section": "healthImpact",
+      "index": 6.0,
+      "total": 7.0,
+      "seg": 2.0
+    },
+    {
+      "id": "Slide_26_ActivityGoals",
+      "next": "Slide_27_Info_longterm",
+      "section": "healthImpact",
+      "index": 7.0,
+      "total": 7.0,
+      "seg": 2.0
+    },
+    {
+      "id": "Slide_27_Info_longterm",
+      "next": "Slide_28_NonSurgicalPreference",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_28_NonSurgicalPreference",
+      "next": "Slide_29_Info_HowItWorks",
+      "section": "priorities",
+      "index": 1.0,
+      "total": 3.0,
+      "seg": 3.0
+    },
+    {
+      "id": "Slide_29_Info_HowItWorks",
+      "next": "Slide_30_BiggestConcern",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_30_BiggestConcern",
+      "next": "Slide_31_Info_ObjectionHandling_cost",
+      "section": "priorities",
+      "index": 2.0,
+      "total": 3.0,
+      "seg": 3.0
+    },
+    {
+      "id": "Slide_31_Info_ObjectionHandling_cost",
+      "next": "Slide_31_Info_ObjectionHandling_effectiveness",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_31_Info_ObjectionHandling_effectiveness",
+      "next": "Slide_31_Info_ObjectionHandling_time",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_31_Info_ObjectionHandling_time",
+      "next": "Slide_31_Info_ObjectionHandling_safety",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_31_Info_ObjectionHandling_safety",
+      "next": "Slide_32_TreatmentPriority",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_32_TreatmentPriority",
+      "next": "Slide_33_ContactForm",
+      "section": "priorities",
+      "index": 3.0,
+      "total": 3.0,
+      "seg": 3.0
+    },
+    {
+      "id": "Slide_33_ContactForm",
+      "next": "Slide_34_Painprofile",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_34_Painprofile",
+      "next": "Slide_35_analyzingscreen",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_35_analyzingscreen",
+      "next": "Slide_36_treatmentquestion_commitment_popup",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_36_treatmentquestion_commitment_popup",
+      "next": "Slide_37_asktrialtreatment_popup",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_37_asktrialtreatment_popup",
+      "next": "Slide_38_conditional_trial_yes",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_38_conditional_trial_yes",
+      "next": "Slide_38b_conditional_Popup_no",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_38b_conditional_Popup_no",
+      "next": "Slide_39_FinalReport",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_39_FinalReport",
+      "next": "Slide_40_ProviderRouting",
+      "template": "blank"
+    },
+    {
+      "id": "Slide_40_ProviderRouting",
+      "template": "blank"
+    }
+  ]
+}
